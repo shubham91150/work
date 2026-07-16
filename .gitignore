@@ -1,0 +1,6 @@
+# Vibe-Beast and OpenCode temporary/config files
+.vibe-config.json
+opencode.json
+memory.json
+reset.js
+reset.cjs
