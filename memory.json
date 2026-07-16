@@ -15,6 +15,11 @@
       "prompt": "hi kya aap meri repository ka naam bata sakte hai",
       "response": "Aapki repository ka naam `work` hai.",
       "timestamp": "2026-07-16T01:16:16.935Z"
+    },
+    {
+      "prompt": "kya hua aapne kuch kiya nahi",
+      "response": "Maine abhi tak koi naya kaam shuru nahi kiya hai kyunki aapne mujhe koi nirdesh nahi diya tha.\n\nAap kya karna chahte hain? Main aapki kaise madat kar sakta hoon?",
+      "timestamp": "2026-07-16T01:18:21.129Z"
     }
   ]
 }
