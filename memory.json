@@ -10,6 +10,11 @@
       "prompt": "hi ap kya kya kar sakte hai",
       "response": "Mainly, main yeh sab kar sakta hoon:\n\n1.  **Code ko samajhna aur badalna:** Files ko padh kar code ko modify karna, naye files banana, aur existing files mein changes karna.\n2.  **Files search karna:** Files ko naam se ya unke content se search karna.\n3.  **Shell commands chalana:** `bash` commands chalana jaise `git`, `npm`, `docker` etc.\n4.  **Web se information nikalna:** URLs se data fetch karna.\n5.  **Documentation access karna:** Programming libraries aur frameworks ke liye latest documentation ko query karna.\n6.  **Complex tasks ko handle karna:** Tasks ko chote steps mein tod kar unko solve karna.\n7.  **Ek task list maintain karna:** Apne ongoing tasks ko track karna aur unki progress dikhana.\n\nBasically, main software engineering se related koi bhi kaam kar sakta hoon jisme code padhna, likhna, aur modify karna ho.",
       "timestamp": "2026-07-16T01:13:31.501Z"
+    },
+    {
+      "prompt": "hi kya aap meri repository ka naam bata sakte hai",
+      "response": "Aapki repository ka naam `work` hai.",
+      "timestamp": "2026-07-16T01:16:16.935Z"
     }
   ]
 }
