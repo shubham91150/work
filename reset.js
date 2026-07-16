@@ -1,0 +1,1 @@
+import fs from "fs"; fs.writeFileSync("/root/.config/opencode/opencode.jsonc", JSON.stringify({ "$schema": "https://opencode.ai/config.json" }, null, 2));
