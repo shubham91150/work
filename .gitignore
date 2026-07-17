@@ -4,3 +4,12 @@ opencode.json
 memory.json
 reset.js
 reset.cjs
+# Vibe-Beast & OpenCode temporary/config files
+.vibe-*
+opencode.*
+memory.*
+reset.*
+*.log
+.gemini/
+.agents/
+.opencode/
